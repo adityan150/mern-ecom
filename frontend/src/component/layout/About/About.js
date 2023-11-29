@@ -21,7 +21,7 @@ const About = () => {
               src="https://res.cloudinary.com/tripleayt/image/upload/v1631555947/products/jpyibarlaxawvcvqjv5b.png"
               alt="Founder"
             />
-            <Typography>Abhishek Singh</Typography>
+            <Typography>Aditya Nautiyal</Typography>
             <Button onClick={visitInstagram} color="primary">
               Visit Instagram
             </Button>
